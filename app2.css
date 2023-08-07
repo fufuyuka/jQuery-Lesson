@@ -1,0 +1,29 @@
+.box1 {
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.box2 {
+  display: none;    /* jQueryで表示される */
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.box3 {
+  display: none;
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.box4 {
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+  margin-top: 210px;
+}
